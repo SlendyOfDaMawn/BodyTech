@@ -1231,3 +1231,7 @@ Script Stack (0 frames):
 [2018.12.18-09.56.27:545][912]LogUnrealEdMisc: Warning: Heartbeat event firing too frequently (32.987 sec). This should never happen. Something is wrong with the timer delegate!
 [2018.12.18-10.00.50:471][703]LogSlate: Window 'Save Content' being destroyed
 [2018.12.18-10.00.53:581][703]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Maps/Menu" FILE="C:/Users/Alex/Documents/Collab/BodyTech/BodyTech 4.21/Content/Maps/Menu.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2018.12.18-10.00.54:060][703]LogSavePackage: Moving 'C:/Users/Alex/Documents/Collab/BodyTech/BodyTech 4.21/Saved/Menu72F67D6948517545594D82923FF51E94.tmp' to 'C:/Users/Alex/Documents/Collab/BodyTech/BodyTech 4.21/Content/Maps/Menu.umap'
+[2018.12.18-10.00.54:546][703]LogFileHelpers: Saving map 'Menu' took 0.965
+[2018.12.18-10.01.22:111][420]SourceControl: fatal: D:/UE4/UE_4.21/Engine/Content: 'D:/UE4/UE_4.21/Engine/Content' is outside repository
+[2018.12.18-10.01.27:006][420]EditorErrors: Warning: No assets to check in!

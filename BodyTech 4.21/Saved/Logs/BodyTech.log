@@ -874,3 +874,29 @@ Script Stack (0 frames):
 [2018.12.18-08.15.44:331][278]LogShaderCompilers: Display: Shaders left to compile 265
 [2018.12.18-08.15.46:328][344]LogShaderCompilers: Display: Shaders left to compile 255
 [2018.12.18-08.15.47:689][385]LogShaderCompilers: Display: Shaders left to compile 245
+[2018.12.18-08.15.54:811][592]LogShaderCompilers: Display: Shaders left to compile 235
+[2018.12.18-08.15.56:522][654]LogShaderCompilers: Display: Shaders left to compile 225
+[2018.12.18-08.15.57:009][670]LogShaderCompilers: Display: Shaders left to compile 215
+[2018.12.18-08.16.03:148][814]LogShaderCompilers: Display: Shaders left to compile 205
+[2018.12.18-08.16.05:444][874]LogShaderCompilers: Display: Shaders left to compile 195
+[2018.12.18-08.16.07:819][934]LogShaderCompilers: Display: Shaders left to compile 185
+[2018.12.18-08.16.11:652][ 38]LogShaderCompilers: Display: Shaders left to compile 175
+[2018.12.18-08.16.14:236][117]LogShaderCompilers: Display: Shaders left to compile 165
+[2018.12.18-08.16.14:277][119]LogShaderCompilers: Display: Shaders left to compile 155
+[2018.12.18-08.16.27:171][386]LogShaderCompilers: Display: Shaders left to compile 145
+[2018.12.18-08.16.28:610][386]LogShaderCompilers: Display: Shaders left to compile 135
+[2018.12.18-08.16.30:300][521]LogShaderCompilers: Display: Shaders left to compile 125
+[2018.12.18-08.16.41:884][706]LogShaderCompilers: Display: Shaders left to compile 115
+[2018.12.18-08.16.41:884][706]LogShaderCompilers: Display: Shaders left to compile 105
+[2018.12.18-08.16.41:884][706]LogShaderCompilers: Display: Shaders left to compile 95
+[2018.12.18-08.16.48:511][706]LogShaderCompilers: Display: Shaders left to compile 85
+[2018.12.18-08.16.50:230][706]LogShaderCompilers: Display: Shaders left to compile 75
+[2018.12.18-08.16.51:499][706]LogShaderCompilers: Display: Shaders left to compile 65
+[2018.12.18-08.16.57:752][706]LogShaderCompilers: Display: Shaders left to compile 55
+[2018.12.18-08.16.59:695][706]LogShaderCompilers: Display: Shaders left to compile 45
+[2018.12.18-08.17.00:828][706]LogShaderCompilers: Display: Shaders left to compile 35
+[2018.12.18-08.17.01:067][706]LogShaderCompilers: Display: Shaders left to compile 25
+[2018.12.18-08.17.02:585][706]LogSlate: Window 'Delete Assets' being destroyed
+[2018.12.18-08.17.04:343][706]SourceControl: rm 'BodyTech 4.21/Content/WeatherEffects.umap'
+[2018.12.18-08.17.07:343][978]LogShaderCompilers: Display: Shaders left to compile 15
+[2018.12.18-08.17.07:843][ 20]LogShaderCompilers: Display: Shaders left to compile 5

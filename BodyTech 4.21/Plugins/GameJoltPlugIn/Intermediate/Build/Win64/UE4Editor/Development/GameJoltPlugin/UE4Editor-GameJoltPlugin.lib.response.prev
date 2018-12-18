@@ -1,0 +1,13 @@
+/NOLOGO
+/errorReport:prompt
+/MACHINE:x64
+/SUBSYSTEM:WINDOWS
+/DEF
+/NAME:"UE4Editor-GameJoltPlugin.dll"
+/IGNORE:4221
+/NODEFAULTLIB
+"F:\CODING\Unreal Engine\4.20.2\Engine\Intermediate\Build\Win64\UE4Editor\Development\Engine\SharedPCH.Engine.h.obj"
+"F:\CODING\Unreal Projects\unreal-transport\unreal-transport 4.20\Plugins\GameJoltPlugIn\Intermediate\Build\Win64\UE4Editor\Development\GameJoltPlugin\Module.GameJoltPlugin.cpp.obj"
+"F:\CODING\Unreal Projects\unreal-transport\unreal-transport 4.20\Plugins\GameJoltPlugIn\Intermediate\Build\Win64\UE4Editor\Development\GameJoltPlugin\Module.GameJoltPlugin.gen.cpp.obj"
+"F:\CODING\Unreal Engine\4.20.2\Engine\Intermediate\Build\Win64\UE4Editor\Development\PCLaunch.rc.res"
+/OUT:"F:\CODING\Unreal Projects\unreal-transport\unreal-transport 4.20\Plugins\GameJoltPlugIn\Intermediate\Build\Win64\UE4Editor\Development\GameJoltPlugin\UE4Editor-GameJoltPlugin.lib"
